@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const Login = () => {
   return (
-    <div className='flex flex-col justify-center items-center min-h-screen bg-yellow-400 bg-gradient-to-r from-blue-900'>
+    <div className='flex flex-col justify-center items-center min-h-screen'>
       <h1 className='font-bold text-4xl mb-4'>Login</h1>
       <form>
         <div>
